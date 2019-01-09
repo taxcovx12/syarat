@@ -14,8 +14,9 @@
 			for ($z=0; $z < count($pecah) ; $z++) { 
 				echo "<br>";
 			}
-			echo "howsdf you can do it here now ";
-		}
+			echo "";
+		} 
+
 
 
 	 ?>	
