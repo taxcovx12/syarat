@@ -12,7 +12,7 @@
 			$pecah = str_split($a, 2);
 
 			for ($z=0; $z < count($pecah) ; $z++) { 
-				echo "<br>";
+				echo "<br>ss";
 			}
 			echo "";
 		} 
